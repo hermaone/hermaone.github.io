@@ -1,0 +1,122 @@
+body{
+    overflow-x: hidden;
+}
+.has-error{
+    border-color: #d91111;
+    color: #d91111;
+}
+.late {
+    background: red;
+    border-radius: 4px;
+    color: #fff;
+    padding: 3px 6px;
+}
+.ontime{
+    background: #0fc12b;;
+    border-radius: 4px;
+    color: #fff;
+    padding: 3px 6px;
+}
+
+/*.sidebar-nav.navbar-collapse{
+    overflow: auto;
+    height: auto;
+}*/
+/*.nav .nav-second-level .collapse in{
+    overflow: auto;
+    height: auto;
+}*/
+.image-views{
+	
+    padding: 15px 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bulet {
+    font-size: 50px;
+    color: #db0347;
+    border: 1px solid;
+    border-radius: 75px;
+    width: 72px;
+    position: relative;
+    left: 127px;
+}
+.status{
+    font-size: 10px;
+    background: #db0347;
+    color: #fff;
+    padding: 3px;
+    border-radius: 10px;
+    position: relative;
+    top: -2px;
+}
+.profile{
+    padding: 6px;
+    margin: 6px;
+}
+.profile{
+    font-size: 14px;
+    color: #4e4c4c;
+}
+.p{
+    border-top: 1px solid #e6e0e0;
+    border-bottom: 1px solid #e6e0e0;
+    color: #828181;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.img-thumbnail1{
+    width: 16rem;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 100px;
+    border: 2px solid #e6e0e0;
+}
+.img-profile{
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid #cec8c8;
+    border-radius: 4px;
+    width: 18rem;
+}
+.thumbnail-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.thumbnail-profile{
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+}
+.img-fluid{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.text-admin {
+    background: #0fd40f;
+    color: #fff;
+    padding: 4px;
+    border-radius: 12px;
+}
+.oke{
+    display: block;
+    position: relative;
+    right: 56px;
+    width: 125%;
+}
+.pa {
+    background: #11add4;
+    color: #fff;
+    padding: 3px 12px;
+}
+
+

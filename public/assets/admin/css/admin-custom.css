@@ -1,0 +1,40 @@
+.radius{
+	border-radius: 0px;
+}
+.a{
+    font-size: 18px;
+}
+.navbar-inverse {
+    background-color: #11add4;
+    border-color: #11add4;
+
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #11add4;
+    border-color: #11add4;
+}
+.modaldusta{
+    font-size: 18px;
+    color: #337ab7;
+    cursor: pointer;
+}
+.modaldusta:hover{
+    font-size: 18px;
+    color:  #0c3d67;
+    cursor: pointer;
+}
+.invalid-feedback {
+    color: #a94442;
+    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+}
+
